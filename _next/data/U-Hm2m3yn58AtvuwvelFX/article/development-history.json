@@ -1,1 +1,0 @@
-{"pageProps":{"title":"開発履歴","description":"本サイトの開発履歴になります","html":"<h2 id=\"使用技術\">使用技術</h2>\n<ul>\n<li>GatsbyJS<ul>\n<li>静的サイトジェネレータ</li>\n</ul>\n</li>\n<li>Tailwind CSS<ul>\n<li>CSS ライブラリ</li>\n</ul>\n</li>\n<li>GitHub Actions<ul>\n<li>CI、デプロイに使用</li>\n</ul>\n</li>\n<li>Firebase Hosting<ul>\n<li>ホスティング</li>\n</ul>\n</li>\n</ul>\n"},"__N_SSG":true}
