@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>https://sidearrow.github.io/404</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/about</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/aws-saa-study-001</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/development-history</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/infomation-gathering-gis</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/next-js-ssg-on-github-pages</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/style-confirm</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/</loc>
+  <lastmod>2020-10-24</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+</urlset>
