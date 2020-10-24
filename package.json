@@ -19,7 +19,7 @@
     "gray-matter": "^4.0.2",
     "highlightjs": "^9.16.2",
     "marked": "^1.1.1",
-    "next": "9.5.3",
+    "next": "9.5.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "tailwindcss": "^1.8.4",
