@@ -1,0 +1,1 @@
+{"pageProps":{"article":{"id":"aws-certification-learning-ecs","title":"AWS 認定試験学習メモ ECS 編","description":"","createdAt":"2021/01/02","updatedAt":"2021/01/02","content":"<h1 id=\"aws-認定試験学習メモ-ecs-編\">AWS 認定試験学習メモ ECS 編</h1>\n<ul>\n<li>起動タイプは EC2 タイプと Fargate タイプから選択</li>\n<li>Fargate タイプはサーバーのプロビジョニングや管理が不要</li>\n</ul>\n","tags":[]}},"__N_SSG":true}
