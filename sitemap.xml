@@ -6,121 +6,127 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
   <loc>https://sidearrow.github.io/404</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/about</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-cloudfront</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-dynamodb</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-ebs</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-ec2</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-ecs</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-efs</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-rds</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-redshift</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-s3</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://sidearrow.github.io/article/aws-certification-learning-sqs</loc>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-storage-gateway</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-certification-learning-summary</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/aws-study-memo</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/development-detail</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/infomation-gathering-gis</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/ipa-sc-201902-pm1-q1</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/next-js-ssg-on-github-pages</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/article/style-confirm</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>https://sidearrow.github.io/</loc>
-  <lastmod>2021-01-04</lastmod>
+  <lastmod>2021-01-09</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
