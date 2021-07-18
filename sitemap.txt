@@ -3,4 +3,5 @@ https://sidearrow.github.io/article/about
 https://sidearrow.github.io/article/development-detail
 https://sidearrow.github.io/article/next-js-ssg-on-github-pages
 https://sidearrow.github.io/article/style-confirm
+https://sidearrow.github.io/article/warshall-floyd
 https://sidearrow.github.io/
